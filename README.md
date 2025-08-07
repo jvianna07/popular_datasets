@@ -6,5 +6,5 @@ Repositório para albergar datasets populares
 
 https://www.w3schools.com/python/pandas/pandas_csv.asp
 
-- Dados de cogumelos
+- Dados de cogumelos:
 
